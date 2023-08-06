@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "charts-launch",
+  "displayName": "ChartsLaunch",
+  "description": "Describe me",
+  "rootNerdletId": "056edebb-a772-46a0-90a5-8b447a0d6b9d.my-charts"
+}
